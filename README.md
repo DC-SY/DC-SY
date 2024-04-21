@@ -14,7 +14,7 @@
 
 - ✉️ Email：oi@dc-sy.cn
 - 🐧 QQ: 3615792663
-- ✈ Telegram: [@dcsy1314](t.me/dcsy1314)
+- ✈ Telegram: [@dcsy1314](https://t.me/dcsy1314)
 
 ### 我的项目
 
